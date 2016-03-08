@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b322ff3313808e2498b77560991314e9
+timeCreated: 1439216596
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - StartZone: {fileID: 131368, guid: ef9c9fa7a19ee904ca49cacf8d306bcd, type: 2}
+  - EndZone: {fileID: 176014, guid: 4e112e2c5fe02014897b6c48df34f693, type: 2}
+  - AdSpawner: {fileID: 171900, guid: 37dfc2f7628ca8646a383148e2eccbca, type: 2}
+  - Plattform: {fileID: 175156, guid: 97f0030704b6228459907c178b0d244a, type: 2}
+  - Mittelpunkt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
